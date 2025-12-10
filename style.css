@@ -1,72 +1,3 @@
-/*div{
-    height: 200px;
-    width: 200px;
-    background-color: yellow;
-    border: 2px solid black;
-    /*border-radius: 50%;*/
-    /*position: absolute;
-    top: 100px;
-    left:100px;*/
-   /* transition-property: all;
-    transition-duration: 2s;
-    transition-timing-function: steps(5);
-    transition-delay: 1s*/
-    /*transition: all 2s ease-in 1s;*/
-    /*transform: rotate( x 180deg);*/
-    /*rotate: y 45deg;*/
-    /*transform: scale y (4);
-    transition: all 2s ease-in 1s;*/
-   /*animation-name: colorAnimate;
-    animation-duration: 1s;
-    /*animation-timing-function: ease-in;*/
-   /*animation-delay: 0S;
-    animation-iteration-count: infinite;
-    animation-direction: alternate-reverse;*/
-    /*animation: colorAnimate 3s ease-in 1s infinite normal;
-    
-
-   
-}*/
-/*@keyframes colorAnimate{
-    0% {
-        left: 0px;
-        background-color: brown;
-    }
-    50% {
-        background-color: blue;
-    }
-    100%{}
-        left: 200px;
-        background-color: darkorange;
-        color: white;
-    }
-}
-div:hover{
-    /*background-color: blue;
-    color: white;
-    font-size: 20px;
-    transform: scale(2);
-     transform: rotate(180deg);
-}*/
-/*div:active{
-    /*background-color: green;
-}*/
-/*.loder{
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
-    border: 20px solid rgb(233, 233, 32);
-    border-top: 20px solid purple;
-    animation: spinAnimate 1s steps(5) 0s infinite normal;
-}
-@keyframes spinAnimate {
-    from {
-        transform:rotate(0deg)
-    }
-    to {
-        transform: rotate(360deg);
-    }
-}*/
 *{
     margin: 0;
     font-family: Arial;
@@ -304,5 +235,6 @@ ul a{
 .copyright{
     padding: 5px;
 }
+
 
 
